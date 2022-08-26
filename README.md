@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [...](https://github.com/Salah1221/Product-Preview-Card)
+- Live Site URL: [Visit Site](https://salah1221.github.io/Product-Preview-Card/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Salah1221](https://www.frontendmentor.io/profile/Salah1221)
+- Twitter - [@SalahNajem5](https://www.twitter.com/SalahNajem5)
