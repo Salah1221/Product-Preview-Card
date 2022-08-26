@@ -74,16 +74,16 @@ ul {
   background-color: var(--clr-white);
   overflow: hidden;
   border-radius: 10px;
-  transition: box-shadow 0.3s;
+  transition: box-shadow 0.7s;
 }
 
 .card:hover {
-  box-shadow: 2.8px 2.8px 2.2px rgba(60, 128, 103, 0.02),
-    6.7px 6.7px 5.3px rgba(60, 128, 103, 0.028),
-    12.5px 12.5px 10px rgba(60, 128, 103, 0.035),
-    22.3px 22.3px 17.9px rgba(60, 128, 103, 0.042),
-    41.8px 41.8px 33.4px rgba(60, 128, 103, 0.05),
-    100px 100px 80px rgba(60, 128, 103, 0.07);
+  box-shadow: 2.8px 2.8px 2.2px rgba(141, 102, 63, 0.02),
+    6.7px 6.7px 5.3px rgba(141, 102, 63, 0.028),
+    12.5px 12.5px 10px rgba(141, 102, 63, 0.035),
+    22.3px 22.3px 17.9px rgba(141, 102, 63, 0.042),
+    41.8px 41.8px 33.4px rgba(141, 102, 63, 0.05),
+    100px 100px 80px rgba(141, 102, 63, 0.07);
 }
 
 .img {
