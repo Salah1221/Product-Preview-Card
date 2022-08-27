@@ -33,3 +33,11 @@ Users should be able to:
 
 - Frontend Mentor - [@Salah1221](https://www.frontendmentor.io/profile/Salah1221)
 - Twitter - [@SalahNajem5](https://www.twitter.com/SalahNajem5)
+
+## Acknowledgments
+
+Thanks for @klievanskyi on the suggestions to improve the solution which were:
+
+- Using a div instead of an ordered list
+- Using a button instead of a link for the add to cart button
+- Removing the optical version of the font
