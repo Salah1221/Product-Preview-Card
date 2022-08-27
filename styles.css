@@ -129,7 +129,6 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  text-decoration: none;
   color: var(--clr-white);
   font-weight: 700;
   gap: 10px;
@@ -139,6 +138,9 @@ ul {
   padding-bottom: 15px;
   border-radius: 8px;
   transition: background-color 0.3s;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
 }
 
 .btn:hover {
